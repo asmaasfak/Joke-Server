@@ -1,0 +1,503 @@
+1.
+---------------------------------------------------------------
+This is an output of 10 randomized jokes for a Client called Tim
+---------------------------------------------------------------
+
+
+ Joke E: 'Until 1961 it was illegal to attempt suicide in the UK. The punishment
+ was death.'
+
+ Joke C: 'Three men walk into a bar, the fourth one ducks
+
+ Joke A:'If Tim had a dollar for every girl that found him unattractive, they wo
+uld eventually find him attractive.'
+
+ Joke B:'Tim bought shoes from a drug dealer. I don't know what he laced them wi
+th but I've been tripping all day.'
+
+ Joke D: 'I never make mistakes...I thought I did once; but I was wrong.'
+
+ Joke B:'Tim bought shoes from a drug dealer. I don't know what he laced them wi
+th but I've been tripping all day.'
+
+ Joke A:'If Tim had a dollar for every girl that found him unattractive, they wo
+uld eventually find him attractive.'
+
+ Joke C: 'Three men walk into a bar, the fourth one ducks
+
+ Joke D: 'I never make mistakes...I thought I did once; but I was wrong.'
+
+ Joke E: 'Until 1961 it was illegal to attempt suicide in the UK. The punishment
+ was death.'
+
+
+----------------------------------------------------------------
+This is an output of 10 randomized jokes for a Client called John
+----------------------------------------------------------------
+
+ Joke E: 'Until 1961 it was illegal to attempt suicide in the UK. The punishment
+ was death.'
+
+ Joke B:'John bought shoes from a drug dealer. I don't know what he laced them w
+ith but I've been tripping all day.'
+
+ Joke A:'If John had a dollar for every girl that found him unattractive, they w
+ould eventually find him attractive.'
+
+ Joke D: 'I never make mistakes...I thought I did once; but I was wrong.'
+
+ Joke C: 'Three men walk into a bar, the fourth one ducks
+
+ Joke A:'If John had a dollar for every girl that found him unattractive, they w
+ould eventually find him attractive.'
+
+ Joke D: 'I never make mistakes...I thought I did once; but I was wrong.'
+
+ Joke B:'John bought shoes from a drug dealer. I don't know what he laced them w
+ith but I've been tripping all day.'
+
+ Joke E: 'Until 1961 it was illegal to attempt suicide in the UK. The punishment
+ was death.'
+
+ Joke C: 'Three men walk into a bar, the fourth one ducks
+
+----------------------------------------------------------------
+This is an output from a server for the above procces #1
+----------------------------------------------------------------
+In the admin looper thread
+Clark Elliot's Inet server 1.8 starting up, listening at port:1565
+looking up Jokes for Tim
+looking up Jokes for Tim
+looking up Jokes for Tim
+looking up Jokes for Tim
+looking up Jokes for Tim
+looking up Jokes for Tim
+looking up Jokes for Tim
+looking up Jokes for Tim
+looking up Jokes for Tim
+looking up Jokes for Tim
+looking up Jokes for John
+looking up Jokes for John
+looking up Jokes for John
+looking up Jokes for John
+looking up Jokes for John
+looking up Jokes for John
+looking up Jokes for John
+looking up Jokes for John
+looking up Jokes for John
+looking up Jokes for John
+_________________________________________________________________________________________________________________________________________________________________________
+
+2.
+-------------------------------------------------------------------
+This is an output of 10 randomized proverbs of a Client called Tim
+-------------------------------------------------------------------
+
+ Proverb B:'Tim remember - Good things come to those who wait..'
+
+ Proverb C: 'Assistance to drowning persons is in the hands of those persons the
+mselves.'
+
+ Proverb E 'Necessity is the mother of invention.'
+
+ Proverb A:'Tim Don't bite the hand that feeds you.'
+
+ Proverb D: 'Whatever is being done, is being done for the sake of best'
+
+ Proverb B:'Tim remember - Good things come to those who wait..'
+
+ Proverb A:'Tim Don't bite the hand that feeds you.'
+
+ Proverb C: 'Assistance to drowning persons is in the hands of those persons the
+mselves.'
+
+ Proverb D: 'Whatever is being done, is being done for the sake of best'
+
+ Proverb E 'Necessity is the mother of invention.'
+
+-------------------------------------------------------------------
+This is an output of 10 randomized proverbs of a Client called John
+-------------------------------------------------------------------
+
+ Proverb E 'Necessity is the mother of invention.'
+
+ Proverb D: 'Whatever is being done, is being done for the sake of best'
+
+ Proverb A:'John Don't bite the hand that feeds you.'
+
+ Proverb B:'John remember - Good things come to those who wait..'
+
+ Proverb C: 'Assistance to drowning persons is in the hands of those persons the
+mselves.'
+
+ Proverb C: 'Assistance to drowning persons is in the hands of those persons the
+mselves.'
+
+ Proverb E 'Necessity is the mother of invention.'
+
+ Proverb B:'John remember - Good things come to those who wait..'
+
+ Proverb A:'John Don't bite the hand that feeds you.'
+
+ Proverb D: 'Whatever is being done, is being done for the sake of best'
+
+----------------------------------------------------------------
+This is an output from a server for the above procces #2
+----------------------------------------------------------------
+Proverb Mode Enabled                   - note that ProverbMode was enabled first (jokemode is default)
+looking up Proverbs for Tim
+looking up Proverbs for Tim
+looking up Proverbs for Tim
+looking up Proverbs for Tim
+looking up Proverbs for Tim
+looking up Proverbs for Tim
+looking up Proverbs for Tim
+looking up Proverbs for Tim
+looking up Proverbs for Tim
+looking up Proverbs for Tim
+looking up Proverbs for John
+looking up Proverbs for John
+looking up Proverbs for John
+looking up Proverbs for John
+looking up Proverbs for John
+looking up Proverbs for John
+looking up Proverbs for John
+looking up Proverbs for John
+looking up Proverbs for John
+looking up Proverbs for John
+_________________________________________________________________________________________________________________________________________________________________________
+
+3.
+---------------------------------------------------------------------
+This is an output with interleaved requests from clients Tim and John - Joke Mode
+---------------------------------------------------------------------
+---
+Tim
+---
+
+ Joke A:'If Tim had a dollar for every girl that found him unattractive, they wo
+uld eventually find him attractive.'
+
+ Joke B:'Tim bought shoes from a drug dealer. I don't know what he laced them wi
+th but I've been tripping all day.'
+
+ Joke D: 'I never make mistakes...I thought I did once; but I was wrong.'
+
+ Joke E: 'Until 1961 it was illegal to attempt suicide in the UK. The punishment
+ was death.'
+
+ Joke C: 'Three men walk into a bar, the fourth one ducks
+
+ Joke D: 'I never make mistakes...I thought I did once; but I was wrong.'
+
+ Joke A:'If Tim had a dollar for every girl that found him unattractive, they wo
+uld eventually find him attractive.'
+
+ Joke E: 'Until 1961 it was illegal to attempt suicide in the UK. The punishment
+ was death.'
+
+ Joke C: 'Three men walk into a bar, the fourth one ducks
+
+ Joke B:'Tim bought shoes from a drug dealer. I don't know what he laced them wi
+th but I've been tripping all day.'
+
+----
+John
+----
+
+ Joke B:'John bought shoes from a drug dealer. I don't know what he laced them w
+ith but I've been tripping all day.'
+
+ Joke A:'If John had a dollar for every girl that found him unattractive, they w
+ould eventually find him attractive.'
+
+ Joke E: 'Until 1961 it was illegal to attempt suicide in the UK. The punishment
+ was death.'
+
+ Joke D: 'I never make mistakes...I thought I did once; but I was wrong.'
+
+ Joke C: 'Three men walk into a bar, the fourth one ducks
+
+ Joke E: 'Until 1961 it was illegal to attempt suicide in the UK. The punishment
+ was death.'
+
+ Joke C: 'Three men walk into a bar, the fourth one ducks
+
+ Joke D: 'I never make mistakes...I thought I did once; but I was wrong.'
+
+ Joke A:'If John had a dollar for every girl that found him unattractive, they w
+ould eventually find him attractive.'
+
+ Joke B:'John bought shoes from a drug dealer. I don't know what he laced them w
+ith but I've been tripping all day.'
+
+
+----------------------------------------------------------------
+This is an output from a server for the above procces #3
+----------------------------------------------------------------
+
+looking up Jokes for Tim
+looking up Jokes for John
+looking up Jokes for Tim
+looking up Jokes for John
+looking up Jokes for Tim
+looking up Jokes for John
+looking up Jokes for Tim
+looking up Jokes for John
+looking up Jokes for Tim
+looking up Jokes for John
+looking up Jokes for Tim
+looking up Jokes for John
+looking up Jokes for Tim
+looking up Jokes for John
+looking up Jokes for Tim
+looking up Jokes for John
+looking up Jokes for Tim
+looking up Jokes for John
+looking up Jokes for Tim
+looking up Jokes for John
+_________________________________________________________________________________________________________________________________________________________________________
+
+4.
+---------------------------------------------------------------------
+This is an output with interleaved requests from clients Tim and John - ProverbMode
+---------------------------------------------------------------------
+---
+Tim
+---
+
+ Proverb B:'Tim remember - Good things come to those who wait..'
+
+ Proverb C: 'Assistance to drowning persons is in the hands of those persons the
+mselves.'
+
+ Proverb E 'Necessity is the mother of invention.'
+
+ Proverb A:'Tim Don't bite the hand that feeds you.'
+
+ Proverb D: 'Whatever is being done, is being done for the sake of best'
+
+ Proverb D: 'Whatever is being done, is being done for the sake of best'
+
+ Proverb B:'Tim remember - Good things come to those who wait..'
+
+ Proverb C: 'Assistance to drowning persons is in the hands of those persons the
+mselves.'
+
+ Proverb E 'Necessity is the mother of invention.'
+
+ Proverb A:'Tim Don't bite the hand that feeds you.'
+
+----
+John
+----
+
+ Proverb B:'John remember - Good things come to those who wait..'
+
+ Proverb D: 'Whatever is being done, is being done for the sake of best'
+
+ Proverb C: 'Assistance to drowning persons is in the hands of those persons the
+mselves.'
+
+ Proverb E 'Necessity is the mother of invention.'
+
+ Proverb A:'John Don't bite the hand that feeds you.'
+
+ Proverb D: 'Whatever is being done, is being done for the sake of best'
+
+ Proverb A:'John Don't bite the hand that feeds you.'
+
+ Proverb B:'John remember - Good things come to those who wait..'
+
+ Proverb E 'Necessity is the mother of invention.'
+
+ Proverb C: 'Assistance to drowning persons is in the hands of those persons the
+mselves.'
+
+----------------------------------------------------------------
+This is an output from a server for the above procces #4
+----------------------------------------------------------------
+Proverb Mode Enabled
+looking up Proverbs for Tim
+looking up Proverbs for John
+looking up Proverbs for Tim
+looking up Proverbs for John
+looking up Proverbs for Tim
+looking up Proverbs for John
+looking up Proverbs for Tim
+looking up Proverbs for John
+looking up Proverbs for Tim
+looking up Proverbs for John
+looking up Proverbs for Tim
+looking up Proverbs for John
+looking up Proverbs for Tim
+looking up Proverbs for John
+looking up Proverbs for Tim
+looking up Proverbs for John
+looking up Proverbs for Tim
+looking up Proverbs for John
+looking up Proverbs for Tim
+looking up Proverbs for John
+_________________________________________________________________________________________________________________________________________________________________________
+
+5. 
+------------------------------------------------------------------------------------------------------------------
+This is an output with interleaved requests from an Administration Client to interleave joke-mode and proverb-mode
+------------------------------------------------------------------------------------------------------------------
+
+---
+Tim
+---
+
+
+ Joke B:'Tim bought shoes from a drug dealer. I don't know what he laced them wi
+th but I've been tripping all day.'
+
+ Proverb E 'Necessity is the mother of invention.'
+
+ Joke E: 'Until 1961 it was illegal to attempt suicide in the UK. The punishment
+ was death.'
+
+ Proverb B:'Tim remember - Good things come to those who wait..'
+
+ Joke C: 'Three men walk into a bar, the fourth one ducks
+
+ Proverb A:'Tim Don't bite the hand that feeds you.'
+
+ Joke A:'If Tim had a dollar for every girl that found him unattractive, they wo
+uld eventually find him attractive.'
+
+ Proverb C: 'Assistance to drowning persons is in the hands of those persons the
+mselves.'
+
+ Joke D: 'I never make mistakes...I thought I did once; but I was wrong.'
+
+ Proverb D: 'Whatever is being done, is being done for the sake of best'
+
+----
+John
+----
+
+ Joke E: 'Until 1961 it was illegal to attempt suicide in the UK. The punishment
+ was death.'
+
+ Proverb A:'John Don't bite the hand that feeds you.'
+
+ Joke B:'John bought shoes from a drug dealer. I don't know what he laced them w
+ith but I've been tripping all day.'
+
+ Proverb C: 'Assistance to drowning persons is in the hands of those persons the
+mselves.'
+
+ Joke C: 'Three men walk into a bar, the fourth one ducks
+
+ Proverb D: 'Whatever is being done, is being done for the sake of best'
+
+ Joke D: 'I never make mistakes...I thought I did once; but I was wrong.'
+
+ Proverb B:'John remember - Good things come to those who wait..'
+
+ Joke A:'If John had a dollar for every girl that found him unattractive, they w
+ould eventually find him attractive.'
+
+ Proverb E 'Necessity is the mother of invention.'
+
+
+----------------------------------------------------------------
+This is an output from a server for the above procces #5
+----------------------------------------------------------------
+
+looking up Jokes for Tim
+looking up Jokes for John
+Proverb Mode Enabled
+looking up Proverbs for Tim
+looking up Proverbs for John
+Joke Mode Enabled
+looking up Jokes for Tim
+looking up Jokes for John
+Proverb Mode Enabled
+looking up Proverbs for Tim
+looking up Proverbs for John
+Joke Mode Enabled
+looking up Jokes for Tim
+looking up Jokes for John
+Proverb Mode Enabled
+looking up Proverbs for Tim
+looking up Proverbs for John
+Joke Mode Enabled
+looking up Jokes for Tim
+looking up Jokes for John
+Proverb Mode Enabled
+looking up Proverbs for Tim
+looking up Proverbs for John
+Joke Mode Enabled
+looking up Jokes for Tim
+looking up Jokes for John
+Proverb Mode Enabled
+looking up Proverbs for Tim
+looking up Proverbs for John
+_________________________________________________________________________________________________________________________________________________________________________
+
+6. 
+----------------------------------------------------------------------------------------------------------------------
+This is an output with interleaved requests from an Administration Client Joke-MODE, Proverb-Mode and Maintenance-Mode
+----------------------------------------------------------------------------------------------------------------------
+---
+Tim
+---
+
+ Sorry the server is currently under the maintenance
+
+ Joke C: 'Three men walk into a bar, the fourth one ducks
+
+ Joke A:'If Tim had a dollar for every girl that found him unattractive, they wo
+uld eventually find him attractive.'
+
+ Proverb B:'Tim remember - Good things come to those who wait..'
+
+ Sorry the server is currently under the maintenance
+
+ Joke E: 'Until 1961 it was illegal to attempt suicide in the UK. The punishment
+ was death.'
+
+----
+John
+----
+
+ Sorry the server is currently under the maintenance
+
+ Joke C: 'Three men walk into a bar, the fourth one ducks
+
+ Joke B:'John bought shoes from a drug dealer. I don't know what he laced them w
+ith but I've been tripping all day.'
+
+ Proverb D: 'Whatever is being done, is being done for the sake of best'
+
+ Sorry the server is currently under the maintenance
+
+ Joke D: 'I never make mistakes...I thought I did once; but I was wrong.'
+
+----------------------------------------------------------------
+This is an output from a server for the above procces #6
+----------------------------------------------------------------
+
+Maintenance Mode Enabled
+Joke Mode Enabled
+looking up Jokes for Tim
+looking up Jokes for John
+looking up Jokes for John
+looking up Jokes for Tim
+Proverb Mode Enabled
+looking up Proverbs for Tim
+looking up Proverbs for John
+Maintenance Mode Enabled
+Joke Mode Enabled
+looking up Jokes for Tim
+looking up Jokes for John
+_________________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
